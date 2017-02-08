@@ -24,7 +24,7 @@ rvm:
 build:
 
   pre_ci_boot:
-    image_name: drydock/u14rub
+    image_name: drydock/u14ruball
     image_tag: prod
     pull: true  
     
